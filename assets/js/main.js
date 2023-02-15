@@ -248,7 +248,7 @@
 
 			window.setTimeout(function() {
 				$menu._locked = false;
-			}, 350);
+			}, 100);
 
 			return true;
 

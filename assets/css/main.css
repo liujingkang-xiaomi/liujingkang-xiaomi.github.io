@@ -3432,11 +3432,11 @@ input, select, textarea {
 			-ms-transition: opacity 1.5s ease, -ms-transform 0.5s ease-out, -ms-filter 0.5s ease, -webkit-filter 0.5s ease;
 			transition: opacity 1.5s ease, transform 0.5s ease-out, filter 0.5s ease, -webkit-filter 0.5s ease;
 			opacity: 0.85;
-			margin-left: 60px;
-			/* margin-right: 10px; */
+			margin-left: 50px;
+			margin-right: 10px;
 			position: relative;
 			top: -26px;
-			width: 180px;
+			width: 160px;
 			border-radius: 100%;
 			border-style: outset;
 			border: 1px;
@@ -3688,7 +3688,7 @@ input, select, textarea {
 
 		.spotlight .image {
 			display: inline-block;
-			margin-right:20em;
+			margin-right:18em;
 			padding: 0.65em;
 			border-radius: 3%;
 		}

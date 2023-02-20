@@ -2830,7 +2830,7 @@ input, select, textarea {
 					}
 						
 						#header > nav ul li a:hover {
-							background: rgba(88, 88, 88, 0.5);
+							background: rgba(88, 88, 88, 0.3);
 							color: #53e3fb !important;
 						}
 						#header > nav ul li a.active {
